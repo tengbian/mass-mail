@@ -1,7 +1,12 @@
 # mass-mail application
 
-# Production mode:
-  - run "heroku open" in the main directory or go to https://fathomless-tor-92083.herokuapp.com/
+## Developed a web application to collect feedbacks
 
-# Development mode:
-  - run "npm run dev" in the main directory
+- How to run the application
+	- Development mode:
+		- in mass-mail folder: ```npm install```
+		- in client folder: ```npm install```
+		- create file ``` config/dev.js ```
+		- in mass-mail folder: ```npm run dev```
+    	- Production mode:
+        	- try website ```https://fathomless-tor-92083.herokuapp.com/```
