@@ -1,4 +1,4 @@
-# mass-mail application
+# Mass Mail
 
 ## Developed a web application to collect feedbacks
 
