@@ -9,4 +9,4 @@
 		- create file ``` config/dev.js ```
 		- in mass-mail folder: ```npm run dev```
 	- Production mode:
-        	- try website ```https://fathomless-tor-92083.herokuapp.com/```
+		- try website ```https://fathomless-tor-92083.herokuapp.com/```
